@@ -125,7 +125,7 @@ Sales show a positive trend across the analyzed years, indicating business growt
 
 ## Dashboard Preview
 
-[![Dashboard Preview](images/grind_sales_dashboard.png)
+[![Dashboard Preview](images/grind_sales_dashboard.png]
 
 ## Project Goal
 
